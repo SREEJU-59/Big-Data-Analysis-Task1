@@ -51,4 +51,5 @@ These insights are not only useful for understanding Netflix’s catalog but als
        This internship task successfully demonstrates how big data tools like PySpark can be applied to real-world datasets to generate insights that would be difficult to manage with traditional tools like Excel or simple Python scripts. The Netflix dataset provided an excellent case study to showcase data cleaning, aggregation, transformation, and visualization. By completing this task, the project proves that large datasets can be effectively handled in a distributed computing environment while still delivering clear business insights. This aligns with the overall goal of the internship, which is to strengthen practical skills in big data analytics, preparing for future challenges in data-driven industries.
 
 OUTPUT:<img width="1768" height="695" alt="Image" src="https://github.com/user-attachments/assets/b483d79f-49dd-4709-ba95-fc28d843d894" />     
+<img width="441" height="818" alt="Image" src="https://github.com/user-attachments/assets/307069f0-3563-4a1a-b1b4-a8c55b48c714" />
 
