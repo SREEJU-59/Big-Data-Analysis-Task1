@@ -52,4 +52,5 @@ These insights are not only useful for understanding Netflix’s catalog but als
 
 OUTPUT:<img width="1768" height="695" alt="Image" src="https://github.com/user-attachments/assets/b483d79f-49dd-4709-ba95-fc28d843d894" />     
 <img width="441" height="818" alt="Image" src="https://github.com/user-attachments/assets/307069f0-3563-4a1a-b1b4-a8c55b48c714" />
+<img width="992" height="535" alt="Image" src="https://github.com/user-attachments/assets/db7ec922-e637-4b90-a0e9-d0862b7ef048" />
 
